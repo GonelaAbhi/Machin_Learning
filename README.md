@@ -1,4 +1,4 @@
-LAB NAME :Machin Learning Lab
-id : B200232
-name : Gonela ABHILASH
+LAB NAME :Machin Learning Lab            
+Id : B200232             
+Nmae : Gonela ABHILASH           
 Class : c1
